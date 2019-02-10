@@ -1,7 +1,7 @@
 # Kotlin-game2048andgameoffifteen
 
 
-Game
+## Game
 
 The goal of this assignment is to implement two games: [Game 2048](https://en.wikipedia.org/wiki/2048_(video_game)) and [Game of Fifteen](https://en.wikipedia.org/wiki/15_puzzle).
 
